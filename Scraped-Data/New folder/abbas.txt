@@ -1,0 +1,32 @@
+﻿hypoglycemia
+hypothyroidism
+ileus
+incontinence
+infection
+infection urinary tract
+influenza
+insufficiency renal
+ischemia
+ketoacidosis diabetic
+kidney disease
+kidney failure acute
+lymphatic diseases
+lymphoma
+malignant neoplasm of breast
+malignant neoplasm of lung
+malignant neoplasm of prostate
+malignant neoplasms
+malignant tumor of colon
+malignantÂ neoplasms
+manic disorder
+melanoma
+migraine disorders
+mitral valve insufficiency
+myocardial infarction
+neoplasm
+neoplasm metastasis
+neuropathy
+neutropenia
+obesity
+
+

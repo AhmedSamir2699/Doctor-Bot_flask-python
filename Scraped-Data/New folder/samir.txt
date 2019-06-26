@@ -1,0 +1,58 @@
+﻿pericardial effusion body substance /heart
+peripheral vascular disease --heart
+personality disorder  \psych
+pneumonia  \lung  
+pneumonia aspiration\lung
+pneumothorax\lung
+primary carcinoma of the liver cells  \ liver
+primary malignant neoplasm \general
+psychotic disorder\  psychat
+pyelonephritis \ kideny
+respiratory failure  \lung
+schizophrenia  \ psychat
+sepsis (invertebrate) \ blood
+septicemia /blood
+sickle cell anemia /blood  
+spasm bronchial /respiratory
+stenosis aortic valve  \ heart
+suicide attempt  \psycht
+systemic infection   \infectous
+tachycardia sinus   \heart
+thrombocytopaenia  \blood
+thrombus   \blood
+pancytopenia  \ blood
+paranoia     \pschat
+parkinson disease     \neurologist
+paroxysmal dyspnea   \respiratory
+tonic-clonic epilepsy  /Neurologists
+tonic-clonic seizures   /Neurologists
+deep vein thrombosis  \ blood
+degenerative polyarthritis  \ bone
+deglutition disorder    \ digestive
+dehydration     \general
+transient ischemic attack   \heart
+tricuspid valve insufficiency  \heart
+hyperglycemia     \blood
+hyperlipidemia     \blood
+hypertension pulmonary   \respiratory
+hypertensive disease   \heart
+ulcer peptic  \ digestive
+upper respiratory infection  \ respiratory
+obesity morbid  \ general
+oralcandidiasis   \digestive
+osteomyelitis     \bone
+osteoporosis   \bone
+overload fluid   \kidney
+pancreatitis   \ pancrease
+hepatitis C    \ liver
+hernia     \ general
+hernia hiatal   \ general
+hiv infections   \reproductive
+hyperbilirubinemia   \ blood
+hypercholesterolemia    \blood
+cirrhosis   \liver
+colitis  \digestive
+confusion   general
+coronary arteriosclerosis  \ heart
+coronary heart disease    \heart
+decubitus ulcer  /genral
