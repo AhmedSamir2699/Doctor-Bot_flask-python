@@ -1,5 +1,7 @@
 # Predicting Diseases From Symptoms
 
+## ther are a Screen About Project
+
 This is an attempt to predict diseases from the given symptoms. A decision tree was trained on two datasets, one had the scraped data from [here](http://people.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html).
 
 This dataset is uncleaned so preprocessing is done and then model is trained and tested on it.
