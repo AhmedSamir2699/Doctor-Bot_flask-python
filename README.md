@@ -1,6 +1,7 @@
-# Predicting Diseases From Symptoms
+# Doctor Bot
 
-## there are a Screen About Project
+This is my Graduation Project ;)  
+Doctor bot is a diseases diagnosis web application made with flask-python. (See the screenshots)
 
 This is an attempt to predict diseases from the given symptoms. A decision tree was trained on two datasets, one had the scraped data from [here](http://people.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html).
 
@@ -10,3 +11,29 @@ Next another decision tree was also trained on [manually created dataset](https:
 
 Create a web service in Flask for disease predictions using the trained model.
 Perform Affinity Analyis to observe which symptoms usually occur together
+
+## Built With
+
+* HTML5
+* CSS
+* JQuery
+* Bootstrap v3.3
+* python
+* flask (python framework)
+* Machine Learning (Decision tree algorithm)
+
+## Used Libraries
+
+* font-awesome
+* rwdImageMaps.js
+* nicescroll.js
+* Google Fonts
+
+
+## Authors
+
+* **Ahmed Samir**
+* **Ahmed Abbas**
+* **Ahmed Abuelsaud**
+* **Ibrahim Mohamed**
+
