@@ -30,10 +30,5 @@ Perform Affinity Analyis to observe which symptoms usually occur together
 * Google Fonts
 
 
-## Authors
 
-* **Ahmed Samir**
-* **Ahmed Abbas**
-* **Ahmed Abuelsaud**
-* **Ibrahim Mohamed**
 
