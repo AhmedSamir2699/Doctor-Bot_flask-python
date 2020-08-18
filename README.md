@@ -12,6 +12,9 @@ Next another decision tree was also trained on [manually created dataset](https:
 Create a web service in Flask for disease predictions using the trained model.
 Perform Affinity Analyis to observe which symptoms usually occur together
 
+![alt text](https://github.com/[AhmedMousa2020]/[ASK]/Screen For site/[branch]/profile.jpg?raw=true)
+
+
 ## Built With
 
 * HTML5
