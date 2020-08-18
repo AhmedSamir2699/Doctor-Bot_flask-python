@@ -12,7 +12,9 @@ Next another decision tree was also trained on [manually created dataset](https:
 Create a web service in Flask for disease predictions using the trained model.
 Perform Affinity Analyis to observe which symptoms usually occur together
 
-![alt text](https://github.com/[AhmedMousa2020]/[Doctor-Bot_flask-python]/blob/IMG-20190622-WA0013.jpg?raw=true)
+![IMG-20190622-WA0013](https://user-images.githubusercontent.com/34624785/90557705-398ddb80-e19b-11ea-9fc5-cac80c271e91.jpg)
+![IMG-20190622-WA0014](https://user-images.githubusercontent.com/34624785/90557718-3eeb2600-e19b-11ea-93d6-c10a1e010f91.jpg)
+![IMG-20190622-WA0015](https://user-images.githubusercontent.com/34624785/90557727-41e61680-e19b-11ea-9b90-94fac2712d4e.jpg)
 
 
 ## Built With
